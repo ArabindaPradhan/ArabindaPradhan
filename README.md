@@ -7,7 +7,7 @@ What I Do:
 <ul>
   <li>🖥️ Full-stack development</li>
   <li>🌐 Web Development</li>
-  <li>🛠️ DevOps Practices</li>
+  <li>📱 Android Development</li>
 </ul>
 <br>
 What I Love:
